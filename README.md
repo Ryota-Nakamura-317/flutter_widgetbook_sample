@@ -1,5 +1,12 @@
 # widgetbook_sample
 
+## Suimlator
+
+iPhone
+
+![スクリーンショット 2022-06-25 20 28 50](https://user-images.githubusercontent.com/76740614/175771567-242888ba-4957-4efd-8e2f-981a434ccc0f.png)
+
+## Widgetbook
 Screen
 ![スクリーンショット 2022-06-25 20 26 37](https://user-images.githubusercontent.com/76740614/175771483-ab8f64cd-9d9a-4dec-8f0e-9dc1ebdc2ea7.png)
 
